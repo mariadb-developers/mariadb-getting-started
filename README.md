@@ -62,7 +62,7 @@ This purpose of this README is to provide you with a brief introduction to the [
 
 ## Support and Contribution <a name="support"></a>
 
-Please feel free to submit PR's, issues or requests to this project project directly.
+Please feel free to submit PR's, issues or requests to this project project or projects within the [official MariaDB Corporation GitHub organization](https://github.com/mariadb-corporation).
 
 If you have any other questions, comments, or looking for more information on MariaDB please check out:
 
