@@ -54,6 +54,7 @@ This purpose of this README is to provide you with a brief introduction to the [
 
 ## Helpful Resources <a name="resources"></a>
 
+* [MariaDB Corporation GitHub](https://github.com/mariadb-corporation)
 * [Official MariaDB Documentation](https://mariadb.com/docs)
 * MariaDB product pages
     * [Community Server](https://mariadb.com/products/community-server/)
