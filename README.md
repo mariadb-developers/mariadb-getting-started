@@ -70,7 +70,7 @@ If you have any other questions, comments, or looking for more information on Ma
 * [MariaDB Developer Hub](https://mariadb.com/developers)
 * [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
 
-Or reach out to us diretly via:
+Or reach out to us directly via:
 
 * [developers@mariadb.com](mailto:developers@mariadb.com)
 * [MariaDB Twitter](https://twitter.com/mariadb)
