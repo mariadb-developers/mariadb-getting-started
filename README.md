@@ -8,7 +8,7 @@ This purpose of this README is to provide you with a brief introduction to the [
 1. [MariaDB Database Products](#products)
     1. [MariaDB Community Server](#community)
     2. [MariaDB Enterprise](#enterprise)
-    3. [MariaDB SkySQL](#skysql)
+    3. [MariaDB Cloud](#cloud)
 2. [Helpful Resources](#resources)
 3. [Support and contribution](#support)
 
@@ -22,6 +22,9 @@ This purpose of this README is to provide you with a brief introduction to the [
 
 * [Download and install MariaDB Community directly from mariadb.com](https://mariadb.com/downloads/)
 * [Using the official Docker image](https://hub.docker.com/_/mariadb)
+* [Zero to MariaDB with AWS EC2 and Docker](https://mariadb.com/kb/en/docker-and-aws-ec2/)
+* [Zero to MariaDB with Azure VM and Docker](https://mariadb.com/kb/en/docker-and-microsoft-azure/)
+* [Zero to MariaDB with GCE VMs and Docker](https://mariadb.com/kb/en/docker-and-google-cloud/)
 
 ### MariaDB Enterprise Server <a name="enterprise"></a>
 
@@ -36,21 +39,24 @@ This purpose of this README is to provide you with a brief introduction to the [
 #### Get Started
 
 * [Download and install MariaDB Enterprise directly from mariadb.com](https://mariadb.com/downloads/enterprise/)
+* [Using the beta Docker image](https://docker.mariadb.com)
+* [Zero to MariaDB with AWS EC2 and Docker](https://mariadb.com/kb/en/docker-and-aws-ec2/)
+* [Zero to MariaDB with Azure VM and Docker](https://mariadb.com/kb/en/docker-and-microsoft-azure/)
+* [Zero to MariaDB with GCE VMs and Docker](https://mariadb.com/kb/en/docker-and-google-cloud/)
 
+### MariaDB Cloud <a name="cloud"></a>
 
-### MariaDB SkySQL <a name="skysql"></a>
-
-[MariaDB SkySQL](https://mariadb.com/products/skysql/) is the first and only database-as-a-service (DBaaS) to bring the full power of MariaDB Enterprise to the cloud, combining powerful features and world-class support with unrivaled ease of use and groundbreaking innovation. Built for mission-critical applications and enterprise governance, SkySQL augments automation with the human expertise and experience needed to support and manage mission-critical deployments in the cloud – whether it’s a single development database or thousands of production databases.
+[MariaDB Cloud](https://mariadb.com/products/cloud/) allows enterprise organizations to realize the benefits of a managed database service, including ease of use, without sacrificing the very things needed to support mission-critical applications, including enterprise features, custom configuration, deployment flexibility, technical and consultative support, on-demand upgrades and bug fixes/security patches. It’s MariaDB Enterprise Server in the cloud, managed by MariaDB (the experts) using automation and world-class database strategies.
 
 <p align="center" spacing="10">
     <kbd>
-        <img src="media/skysql.png" />
+        <img src="media/mariadb-cloud.png" />
     </kbd>
 </p>
 
 #### Get Started
 
-* [Launch a fully-managed cloud database with MariaDB SkySQL](https://mariadb.com/products/skysql/get-started/)
+* [Contact MariaDB about our expert-managed MariaDB Cloud](https://mariadb.com/contact/?managed-services-contact-us=true)
 
 ## Helpful Resources <a name="resources"></a>
 
@@ -59,7 +65,7 @@ This purpose of this README is to provide you with a brief introduction to the [
 * MariaDB product pages
     * [Community Server](https://mariadb.com/products/community-server/)
     * [Enterprise](https://mariadb.com/products/enterprise/)
-    * [SkySQL](https://mariadb.com/products/skysql/)
+    * [MariaDB Cloud](https://mariadb.com/products/cloud/)
 
 ## Support and Contribution <a name="support"></a>
 
